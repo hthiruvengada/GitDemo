@@ -1,2 +1,2 @@
 # GitDemo
-This is a demo for GitHub
+This is a demo for GitHub integration with VS code
